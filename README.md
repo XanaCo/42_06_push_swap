@@ -5,8 +5,8 @@
 The `push_swap` project focuses on sorting algorithms and data manipulation. In this task, students are given two stacks named `a` and `b` and a set of operations to manipulate these stacks. The main goal is to sort the stack `a` using the fewest operations possible while employing the stack `b` as a temporary workspace.
 
 The challenge is twofold: 
-1. To sort the numbers using only the given operations.
-2. To do it efficiently, minimizing the number of operations used.
+- To sort the numbers using only the given operations.
+- To do it efficiently, minimizing the number of operations used.
 
 The exercise essentially teaches the students the importance of algorithmic efficiency and how to approach complex problems with a strategic mindset.
 
